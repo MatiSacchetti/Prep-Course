@@ -1,0 +1,27 @@
+h1 {
+    color: black;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+body {
+    border: 7px;
+    border-color: black;
+    border-style: solid;
+    padding: 7px;
+    margin: 4px;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
+#henryId{
+    font-size: 30px;
+    color:  black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
